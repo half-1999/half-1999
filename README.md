@@ -7,10 +7,10 @@
 
 
 
-I am at present pursuing my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack web development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
-- 🔭 I’m currently working on Full Stack Web Applications as well as Improving My Problem Solving Skills. 
-- 🔭 Practicing DSA and implement in C++.
-- 🔭 Taking intrest in Cyber Security.
+I completed my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack Web Development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
+- 🔭 I’m currently working on Front End Web Applications as well as Improving My Problem Solving Skills. 
+- 🔭  
+- 🔭 Taking interest in Cyber Security.
 
 ___
 
@@ -22,7 +22,7 @@ ___
 <p align="left">
 
 
-<a href="https://instagram.com/half-1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="half-1999" height="30" width="40" /></a>
+<a href="https://instagram.com/half_engiiineeer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="half-1999" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/half-1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="half-1999" height="30" width="40" /></a>
 <a href="https://dev.to/half-1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="half-1999" height="30" width="40" /></a>
 
@@ -32,7 +32,7 @@ ___
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/half-1999)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/half-1999)
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/rkrkumar021)](https://twitter.com/half-1999)
+[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/half-1999)
 [![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rkrkumar021/)](https://medium.com/@half-1999)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:halfengiiineeer2022@gmail.com)
 &nbsp;
