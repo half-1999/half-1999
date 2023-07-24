@@ -1,16 +1,23 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 ## I am Aman Sharma !
 
-#### A Passionate Full-Stack Web Developer & Competitive Programmer
+#### A Passionate Full-Stack Web Developer & Competitive Programmer !!!
+
+ #### I have a serious passion for Full stack Web Development. 
+ 
+ #### I ❤️ building responsive Websites and Web applications with amazing UI/UX.
 
 
+INTERN–– COMELY ENTERPRISES DELHI ( FEB 2023 – JULY 2023 )
 
+🔭 Utilized HTML5, CSS, and JavaScript to code and script game functionalities and behaviors.
 
+🔭 Developed and Released an Application which includes mainly the Game and Wallet
+that achieved over 1000+ downloads.
 
-I completed my Bachelor's degree in Computer Science and Engineering. I have a serious passion for Full stack Web Development. I ❤️ building responsive Websites and Web applications with amazing UI/UX.
-- 🔭 I’m currently working on Front End Web Applications as well as Improving My Problem Solving Skills. 
-- 🔭  
-- 🔭 Taking interest in Cyber Security.
+🔭 Designed and Implemented 10+ different interested Games i.e
+Monster Truck Racing , Hungry Bird ,Bubble Shooter, Ados etc.
+
 
 ___
 
@@ -30,11 +37,10 @@ ___
 
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/half-1999)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/half-1999)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-518597258/)
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/half-1999)
-[![Medium](https://img.shields.io/badge/-Medium-03a57a?style=flat-square&labelColor=000000&logo=Medium&link=https://medium.com/@rkrkumar021/)](https://medium.com/@half-1999)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:halfengiiineeer2022@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fullstackwebdev001@gmail.com)
 &nbsp;
 </p>
 
