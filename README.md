@@ -1,58 +1,122 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
-## I am Aman Sharma !
+# Hey there 👋  
+## I’m Aman Sharma
 
-#### A Passionate Full-Stack Web Developer & Competitive Programmer !!!
+### Full-Stack MERN Developer | SaaS & FinTech Systems | AWS
 
- #### I have a serious passion for Full stack Web Development. 
- 
- #### I ❤️ building responsive Websites and Web applications with amazing UI/UX.
+---
 
+### 👨‍💻 About Me
 
-INTERN–– COMELY ENTERPRISES DELHI ( FEB 2023 – JULY 2023 )
+I am a **Full-Stack MERN Developer with 4+ years of hands-on experience** building scalable, production-ready web applications and SaaS platforms. I specialize in **React.js, Node.js, Express.js, MongoDB, and AWS**, with a strong focus on clean architecture, performance, and secure API development.
 
-🔭 Utilized HTML5, CSS, and JavaScript to code and script game functionalities and behaviors.
+I have successfully delivered end-to-end solutions across **FinTech, Travel Tech, SaaS, EdTech, HRMS, and Enterprise Systems**, taking full ownership from system design to deployment.
 
-🔭 Developed and Released an Application which includes mainly the Game and Wallet
-that achieved over 1000+ downloads.
+---
 
-🔭 Designed and Implemented 10+ different interested Games i.e
-Monster Truck Racing , Hungry Bird ,Bubble Shooter, Ados etc.
+### 🚀 What I Do Best
 
+- Build scalable SaaS and enterprise-grade web applications  
+- Design secure REST APIs and backend architectures  
+- Develop clean, responsive, and intuitive UI/UX  
+- Integrate third-party APIs (payments, booking, cloud services)  
+- Deploy and manage applications on cloud infrastructure  
 
-___
+---
 
-### Profile Visit Count
-![Visitor Count](https://profile-counter.glitch.me/half-1999/count.svg)
+### 🏢 Professional Experience
 
-___
-<h3 align="left">Let's Connect: 🚀</h3>
+**Software Developer / Assistant Manager**  
+**SimpleMudra Payment Solutions – Noida, India**  
+*2024 – Present*
+
+- Built a complete **FinTech platform** including wallet systems, KYC, transactions, payouts, and commission engines  
+- Developed and maintained a **Travel Flight Booking System** with real-time Yatra API integration  
+- Implemented secure authentication, role-based access, and admin dashboards  
+- Optimized backend performance and ensured production stability  
+
+**Intern – Web & Game Development**  
+**Comely Enterprises – Delhi**  
+*Feb 2023 – Jul 2023*
+
+- Developed interactive applications using **HTML, CSS, JavaScript**  
+- Released a gaming application with wallet integration achieving **1000+ downloads**  
+- Designed and implemented **10+ casual games** including Monster Truck Racing, Bubble Shooter, Hungry Bird, and more  
+
+---
+
+### 🛠 Tech Stack
+
+**Frontend**  
+React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+
+**Backend**  
+Node.js, Express.js, REST APIs
+
+**Database**  
+MongoDB, MySQL, PostgreSQL
+
+**Cloud & DevOps**  
+AWS, Cloudinary, Nginx
+
+**Auth & Security**  
+JWT, Role-Based Access Control
+
+**Tools**  
+Git, GitHub, Postman
+
+---
+
+### 📌 Featured Work
+
+- **SaaS Platforms** – End-to-end dashboards, automation, role-based systems  
+- **FinTech Systems** – Wallets, transactions, payouts, commission engines  
+- **Travel Tech** – Real-time flight search, booking, and cancellation systems  
+- **Enterprise Admin Panels** – Analytics, reporting, and access control  
+
+---
+
+### 🌐 Portfolio & Contact
+
+- 🌍 Portfolio: https://developeraman-sigma.vercel.app  
+- 📧 Email: fullstackwebdev001@gmail.com  
+- 📍 Location: Noida, India  
+
+---
+
+### 🤝 Let’s Connect
+
 <p align="left">
-
-
-<a href="https://instagram.com/half_engiiineeer" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="half-1999" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/half-1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="half-1999" height="30" width="40" /></a>
-<a href="https://dev.to/half-1999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="half-1999" height="30" width="40" /></a>
-
-
-
-
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/half-1999)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/aman-sharma-518597258/)
-
-[![Twitter](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/half-1999)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:fullstackwebdev001@gmail.com)
-&nbsp;
+<a href="https://www.linkedin.com/in/aman-sharma-518597258/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/half-1999" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-000?style=flat&logo=github&logoColor=white"/>
+</a>
+<a href="https://twitter.com/half-1999" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/>
+</a>
+<a href="mailto:fullstackwebdev001@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-c14438?style=flat&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
+---
 
-___
+### 📈 GitHub Stats
 
-<h3 align="left">Languages and Tools: 💻</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.gatsbyjs.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gatsbyjs/gatsbyjs-icon.svg" alt="gatsby" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+![Visitor Count](https://profile-counter.glitch.me/half-1999/count.svg)
 
-___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=half-1999&layout=compact)](https://github.com/half-1999/github-readme-stats)
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=half-1999&show_icons=true&theme=default" />
+</p>
 
-___
-### Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=half-1999&show_icons=true&locale=en" alt="half-1999" /></p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=half-1999&layout=compact" />
+</p>
+
+---
+
+### ⚡ Philosophy
+
+I believe in **clean code, scalable systems, and building products that solve real business problems**. I enjoy taking ownership, learning continuously, and shipping reliable software.
+
