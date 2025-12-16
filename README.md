@@ -1,81 +1,122 @@
-# Hey there 👋  
-## I’m Aman Sharma
-
-### Full-Stack MERN Developer | SaaS & FinTech Systems | AWS
+# 👋 Hi, I’m Aman Sharma  
+### Full-Stack MERN Developer | SaaS & FinTech Systems | AWS | Clean Architecture
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 Professional Summary
 
-I am a **Full-Stack MERN Developer with 4+ years of hands-on experience** building scalable, production-ready web applications and SaaS platforms. I specialize in **React.js, Node.js, Express.js, MongoDB, and AWS**, with a strong focus on clean architecture, performance, and secure API development.
+I am a **Full-Stack MERN Developer with 4+ years of hands-on experience** in designing, developing, and deploying **scalable, production-grade web applications**. I specialize in building **SaaS platforms, FinTech systems, and enterprise applications** with a strong emphasis on **clean architecture, performance optimization, security, and maintainability**.
 
-I have successfully delivered end-to-end solutions across **FinTech, Travel Tech, SaaS, EdTech, HRMS, and Enterprise Systems**, taking full ownership from system design to deployment.
-
----
-
-### 🚀 What I Do Best
-
-- Build scalable SaaS and enterprise-grade web applications  
-- Design secure REST APIs and backend architectures  
-- Develop clean, responsive, and intuitive UI/UX  
-- Integrate third-party APIs (payments, booking, cloud services)  
-- Deploy and manage applications on cloud infrastructure  
+I have worked extensively on **end-to-end product development**, taking ownership from requirement analysis and system design to deployment, monitoring, and post-production support. My experience spans across **FinTech, Travel Tech, SaaS, EdTech, HRMS, Inventory Management, and Enterprise Admin Systems**.
 
 ---
 
-### 🏢 Professional Experience
+## 🧠 Engineering Mindset & Core Strengths
 
-**Software Developer / Assistant Manager**  
-**SimpleMudra Payment Solutions – Noida, India**  
-*2024 – Present*
+- Designing **scalable backend architectures** and RESTful APIs  
+- Building **secure authentication & authorization systems** (JWT, RBAC)  
+- Writing **clean, modular, and maintainable code**  
+- Optimizing application performance and database queries  
+- Integrating **third-party services and APIs**  
+- Deploying and managing applications on **cloud infrastructure**  
+- Delivering **business-driven solutions**, not just features  
 
-- Built a complete **FinTech platform** including wallet systems, KYC, transactions, payouts, and commission engines  
-- Developed and maintained a **Travel Flight Booking System** with real-time Yatra API integration  
-- Implemented secure authentication, role-based access, and admin dashboards  
-- Optimized backend performance and ensured production stability  
+---
 
-**Intern – Web & Game Development**  
+## 🏢 Professional Experience
+
+### **Software Developer / Assistant Manager**  
+**SimpleMudra Payment Solutions (FinTech & Travel Tech)**  
+*2024 – Present | Noida, India*
+
+- Architected and developed a **complete FinTech platform** including wallet systems, KYC workflows, transactions, payouts, and commission engines  
+- Designed and implemented **secure REST APIs** using Node.js and Express.js  
+- Built role-based **admin dashboards** for operations, reporting, and analytics  
+- Integrated **real-time Travel Flight Booking APIs (Yatra)** for search, booking, ticketing, and cancellations  
+- Implemented authentication, authorization, and audit logging for compliance  
+- Optimized backend performance and ensured production reliability  
+
+---
+
+### **Web & Game Development Intern**  
 **Comely Enterprises – Delhi**  
 *Feb 2023 – Jul 2023*
 
-- Developed interactive applications using **HTML, CSS, JavaScript**  
-- Released a gaming application with wallet integration achieving **1000+ downloads**  
-- Designed and implemented **10+ casual games** including Monster Truck Racing, Bubble Shooter, Hungry Bird, and more  
+- Developed interactive applications using **HTML5, CSS3, and JavaScript**  
+- Released a gaming application with **wallet integration**, achieving **1000+ downloads**  
+- Designed and implemented **10+ casual games**, including:
+  - Monster Truck Racing  
+  - Bubble Shooter  
+  - Hungry Bird  
+  - Arcade-style logic-based games  
+- Focused on gameplay logic, UI responsiveness, and performance  
 
 ---
 
-### 🛠 Tech Stack
+## 🛠 Technical Skill Set
 
-**Frontend**  
-React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+### **Frontend**
+- React.js  
+- JavaScript (ES6+)  
+- HTML5, CSS3  
+- Tailwind CSS  
+- Responsive & Component-Based UI Development  
 
-**Backend**  
-Node.js, Express.js, REST APIs
+### **Backend**
+- Node.js  
+- Express.js  
+- REST API Design  
+- MVC & Modular Architecture  
 
-**Database**  
-MongoDB, MySQL, PostgreSQL
+### **Databases**
+- MongoDB (Schema Design, Aggregations)  
+- MySQL  
+- PostgreSQL  
 
-**Cloud & DevOps**  
-AWS, Cloudinary, Nginx
+### **Cloud & DevOps**
+- AWS (Deployment & Cloud Services)  
+- Cloudinary (Media Management)  
+- Nginx (Reverse Proxy & Server Configuration)  
 
-**Auth & Security**  
-JWT, Role-Based Access Control
+### **Authentication & Security**
+- JWT-based Authentication  
+- Role-Based Access Control (RBAC)  
+- Secure API Practices  
 
-**Tools**  
-Git, GitHub, Postman
+### **Tools & Workflow**
+- Git & GitHub  
+- Postman  
+- Agile Development Practices  
 
 ---
 
-### 📌 Featured Work
+## 🚀 Key Projects & Domains
 
-- **SaaS Platforms** – End-to-end dashboards, automation, role-based systems  
-- **FinTech Systems** – Wallets, transactions, payouts, commission engines  
-- **Travel Tech** – Real-time flight search, booking, and cancellation systems  
-- **Enterprise Admin Panels** – Analytics, reporting, and access control  
+- **SaaS Platforms**  
+  End-to-end systems with dashboards, automation workflows, and role-based access  
+
+- **FinTech Applications**  
+  Wallets, transactions, payouts, commission engines, secure APIs  
+
+- **Travel Tech Systems**  
+  Real-time flight search, booking, ticketing, and cancellation flows  
+
+- **Enterprise Admin Panels**  
+  Reporting, analytics, system configuration, and access control  
 
 ---
 
-### 🌐 Portfolio & Contact
+## 📈 Development Philosophy
+
+- Code should be **readable, maintainable, and scalable**  
+- Architecture matters more than quick hacks  
+- Performance and security are not optional  
+- Products should solve **real business problems**  
+- Ownership from idea to production defines good engineers  
+
+---
+
+## 🌐 Portfolio & Contact
 
 - 🌍 Portfolio: https://developeraman-sigma.vercel.app  
 - 📧 Email: fullstackwebdev001@gmail.com  
@@ -83,7 +124,7 @@ Git, GitHub, Postman
 
 ---
 
-### 🤝 Let’s Connect
+## 🤝 Let’s Connect
 
 <p align="left">
 <a href="https://www.linkedin.com/in/aman-sharma-518597258/" target="_blank">
@@ -102,12 +143,12 @@ Git, GitHub, Postman
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Insights
 
 ![Visitor Count](https://profile-counter.glitch.me/half-1999/count.svg)
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=half-1999&show_icons=true&theme=default" />
+<img src="https://github-readme-stats.vercel.app/api?username=half-1999&show_icons=true" />
 </p>
 
 <p>
@@ -116,7 +157,6 @@ Git, GitHub, Postman
 
 ---
 
-### ⚡ Philosophy
+## ⚡ Closing Note
 
-I believe in **clean code, scalable systems, and building products that solve real business problems**. I enjoy taking ownership, learning continuously, and shipping reliable software.
-
+I enjoy working on **challenging problems**, building **scalable systems**, and continuously improving my engineering skills. I am always open to opportunities that involve **product ownership, system design, and impactful software development**.
