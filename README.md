@@ -182,7 +182,7 @@ A commitment to growth is essential in this field.
   </a>
 </p>
 <p align="center">
-  <img src="https://profile-counter.glitch.me/half-1999/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=half-1999&style=flat-square" alt="Visitor Count" />
 </p>
 
 ---
